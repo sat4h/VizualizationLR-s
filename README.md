@@ -14,7 +14,7 @@
 
 [6. Лабораторная работа]()
 
-Для выполения лабораторных работ был выбран небольшой датасет [mtcars](https://www.kaggle.com/datasets/ruiromanini/mtcars/data). Как можно понять по названю он состоит из данных по машинам.
+Для выполения лабораторных работ был выбран небольшой датасет [mtcars](https://www.kaggle.com/datasets/ruiromanini/mtcars/data). Как можно понять по названю он состоит из данных о машинах.
 
 ```
 # Download latest version
