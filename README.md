@@ -11,17 +11,21 @@
 
 - Выполнить задания из 2-ой лекции
 
-[3. Лабораторная работа](Vizualization_Ionov_LR3.ipynb) :white_check_mark:
+[3. Лабораторная работа](Vizualization_Ionov_LR3.ipynb) :warning: :white_check_mark:
 
 - Построить графики из 1 лабораторной работы с помощью plotnine
 
 [4. Лабораторная работа](Vizualization_Ionov_LR4.ipynb) :white_check_mark:
 
-[5. Лабораторная работа](Vizualization_Ionov_LR5) :white_check_mark:
+- Привести [выбранный датасет](https://www.kaggle.com/datasets/ruiromanini/mtcars/data) к "аккуратному виду". Если данные уже в правильном виде, то сделать из них "широкие" данные.
+
+[5. Лабораторная работа](Vizualization_Ionov_LR5)  :white_check_mark:
+
+- Изучить altair по предоставленным материалам 
 
 [6. Лабораторная работа]()
 
-Для выполения лабораторных работ был выбран небольшой датасет [mtcars](https://www.kaggle.com/datasets/ruiromanini/mtcars/data). Как можно понять по названю он состоит из данных о машинах.
+Для выполения лабораторных работ был выбран небольшой датасет [mtcars](https://www.kaggle.com/datasets/ruiromanini/mtcars/data) :red_car:. 
 
 ```
 # Download latest version
