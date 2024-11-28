@@ -25,6 +25,7 @@
 
 [6. Лабораторная работа]()
 
+## Выбранный dataset
 Для выполения лабораторных работ был выбран небольшой датасет [mtcars](https://www.kaggle.com/datasets/ruiromanini/mtcars/data) :red_car:. 
 
 ```
