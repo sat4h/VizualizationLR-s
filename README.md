@@ -2,15 +2,22 @@
 
 ## Ионов Артем группа 6231-010402D
 
-[1. Лабораторная работа](Vizualization_Ionov_LR1.ipynb)
+[1. Лабораторная работа](Vizualization_Ionov_LR1.ipynb) :white_check_mark:
 
-[2. Лабораторная работа](VIzualization_Ionov_LR2.ipynb)
+- Выбрать интересный датасет
+- Построить 8-10 графиков любым иструментом 
 
-[3. Лабораторная работа](Vizualization_Ionov_LR3.ipynb)
+[2. Лабораторная работа](VIzualization_Ionov_LR2.ipynb) :white_check_mark:
 
-[4. Лабораторная работа](Vizualization_Ionov_LR4.ipynb)
+- Выполнить задания из 2-ой лекции
 
-[5. Лабораторная работа](Vizualization_Ionov_LR5)
+[3. Лабораторная работа](Vizualization_Ionov_LR3.ipynb) :white_check_mark:
+
+- Построить графики из 1 лабораторной работы с помощью plotnine
+
+[4. Лабораторная работа](Vizualization_Ionov_LR4.ipynb) :white_check_mark:
+
+[5. Лабораторная работа](Vizualization_Ionov_LR5) :white_check_mark:
 
 [6. Лабораторная работа]()
 
